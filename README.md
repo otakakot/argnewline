@@ -1,4 +1,4 @@
-# Go Fixer
+# argnewline
 
 This tool reformats Go source files by converting single-line parameter lists into a multi-line format, improving readability and maintainability.
 
